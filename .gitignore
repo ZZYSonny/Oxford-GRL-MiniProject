@@ -1,0 +1,5 @@
+.archive
+*.pyc
+.vscode
+.neptune
+.env
